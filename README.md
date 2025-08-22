@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hanna Franchesca Herradura  
 
 ## 🙋 Introduction  
-I'm a **BSIT student** and a beginner developer exploring the world of coding.  
+I'm a **BSIT student at LSPU** and a beginner developer exploring the world of coding.  
 Still learning, still growing 🚀  
 
 ---

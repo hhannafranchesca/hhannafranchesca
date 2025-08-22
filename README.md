@@ -23,6 +23,16 @@ Still learning, still growing 🚀
 - 🎨 Figma (UI/UX Design)  
 - 🖥️ Basic Networking (Cisco Packet Tracer)  
 
+---
+
+## 📂 Projects  
+- 🛍️ **Sheware E-Commerce Platform** *(Academic Project)*  
+   *A local e-commerce website and mobile app similar to Shopee but designed for community/local use.*  
+   *Built with: Flask (Web Backend), SQLite (Database), Flutter (Mobile), HTML, CSS, Bootstrap, JavaScript* *
+
+- 💰 Cashiering & Ordering System (Academic Project)  
+  *Description:** A simple POS-style system for handling orders and cashiering processes.  
+  *Built With:** C#, Windows Forms (Visual Studio / Workbench)
 
 ---
 

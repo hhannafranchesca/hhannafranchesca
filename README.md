@@ -9,19 +9,20 @@ Still learning, still growing 🚀
 ## 🎯 Goals  
 - 🌱 Learn more about **Python, Flask, and Web Development**  
 - 📱 Explore **Flutter & Dart** for mobile apps  
-- 🎨 Practice **UI/UX design** with Figma  
-- ☁️ Understand the basics of **Cloud Computing**  
+- 🎨 Practice **UI/UX design** with Figma
+- ⚡ Get more practice in **JavaScript**  
 - 💡 Build small projects to improve my coding confidence  
 
 ---
 
 ## 🛠️ Skills  
 *(Beginner Level — still learning!)*  
-- 🐍 Python | ☕ PHP | 🌐 HTML & CSS | 🎨 Bootstrap  
+- 🐍 Python | ☕ PHP | 🌐 HTML & CSS | 🎨 Bootstrap | ⚡ JavaScript (basic)  
 - 🧩 Flask (Web Framework)  
 - 📱 Flutter & Dart (Mobile Development)  
 - 🎨 Figma (UI/UX Design)  
-- ☁️ Basic Cloud Computing Knowledge  
+- 🖥️ Basic Networking (Cisco Packet Tracer)  
+
 
 ---
 

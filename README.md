@@ -24,16 +24,23 @@ Still learning, still growing 🚀
 - 🖥️ Basic Networking (Cisco Packet Tracer)  
 
 ---
-
 ## 📂 Projects  
-- 🛍️ **Sheware E-Commerce Platform** *(Academic Project)*  
-   *A local e-commerce website and mobile app similar to Shopee but designed for community/local use.*  
-   *Built with: Flask (Web Backend), SQLite (Database), Flutter (Mobile), HTML, CSS, Bootstrap, JavaScript 
 
-- 💰 **Cashiering & Ordering System** *(Academic Project)*  
-  *Description:* A simple POS-style system for handling orders and cashiering processes.  
-  *Built With:* C#, Windows Forms (Visual Studio / Workbench)
+### 🛍️ Sheware E-Commerce Platform (Academic Project)  
+**Description:** A local e-commerce website and mobile app similar to Shopee but designed for local use.  
+**Built With:** Flask (Web Backend), SQLite (database running on localhost), Flutter (Mobile), HTML, CSS, Bootstrap, JavaScript  
 
+### 💰 Cashiering & Ordering System (Academic Project)  
+**Description:** A simple POS-style desktop application for handling orders and cashiering processes.  
+**Built With:** C#, Windows Forms (Visual Studio / Workbench)  
+
+### 🎓 Simple Enrollment System (Academic Project)  
+**Description:** A basic desktop application for recording and managing student enrollment data.  
+**Built With:** C#, Windows Forms (Visual Studio / Workbench)  
+
+### 🏫 School Permit Release System (Academic Project)  
+**Description:** A system for managing and releasing school permits.  
+**Built With:** PHP (backend), MySQL (database, local), HTML, CSS, Bootstrap, JavaScript  
 
 ---
 

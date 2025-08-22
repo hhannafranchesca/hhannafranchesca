@@ -2,6 +2,7 @@
 
 ## 🙋 Introduction  
 I'm a **BSIT student at LSPU** and a beginner developer exploring the world of coding.  
+I’ve built some projects for school, mostly desktop apps and small web apps.  
 Still learning, still growing 🚀  
 
 ---

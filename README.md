@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello, I'm Hanna Franchesca Herradura  
 
-<!--
-**hhannafranchesca/hhannafranchesca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋 Introduction  
+I'm a **BSIT student** and a beginner developer exploring the world of coding.  
+Still learning, still growing 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals  
+- 🌱 Learn more about **Python, Flask, and Web Development**  
+- 📱 Explore **Flutter & Dart** for mobile apps  
+- 🎨 Practice **UI/UX design** with Figma  
+- ☁️ Understand the basics of **Cloud Computing**  
+- 💡 Build small projects to improve my coding confidence  
+
+---
+
+## 🛠️ Skills  
+*(Beginner Level — still learning!)*  
+- 🐍 Python | ☕ PHP | 🌐 HTML & CSS | 🎨 Bootstrap  
+- 🧩 Flask (Web Framework)  
+- 📱 Flutter & Dart (Mobile Development)  
+- 🎨 Figma (UI/UX Design)  
+- ☁️ Basic Cloud Computing Knowledge  
+
+---
+
+## 📫 Contact  
+- 📧 Email: **hhannafranchesca03@gmail.com**  
+- 🌍 Location: Philippines  
+
+---
+
+## ✨ Motto  
+*"Learning may be slow, but progress is progress."* 💪
+
+

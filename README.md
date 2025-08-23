@@ -2,20 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=220&section=header&text=Hi%2C%20I'm%20Hanna%20Franchesca%20Herradura&fontSize=30&fontColor=fff&animation=twinkling&desc=A%20Web%20Developer%20in%20the%20making%20🚀&descAlignY=65&descAlign=50"/>
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="background: linear-gradient(135deg, #36d1dc, #5b86e5); border-radius: 15px; padding: 20px; color: white; width: 600px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🙋%20About%20Me-36d1dc?style=for-the-badge&logoColor=white&color=5b86e5" />
-</p>
-<p align="center">
-I'm a <b>BSIT student at LSPU</b> and a beginner developer exploring the world of coding. <br>
-I’ve built some projects for school, mostly desktop apps and small web apps. <br>
-<b>Still learning, still growing 🚀</b>
-</p>
 
 
 

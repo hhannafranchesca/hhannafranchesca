@@ -1,11 +1,10 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=220&section=header&text=Hi%2C%20I'm%20Hanna%20Franchesca%20Herradura&fontSize=30&fontColor=fff&animation=twinkling&desc=A%20Web%20Developer%20in%20the%20making%20🚀&descAlignY=65&descAlign=50"/>
 </p>
 
 <div align="center">
 
-# 👩‍💻 BSIT Student | Beginner Developer  
+# 👩‍💻 BSIT Student | Web Developer  
 🌱 Exploring **Python, Flask, and Web Development**  
 📱 Learning **Flutter & Dart** for mobile apps  
 🎨 Practicing **UI/UX with Figma**  
@@ -17,7 +16,7 @@
 
 ## 🎯 Goals & Aspirations  
 
-✨ My journey as a BSIT student and beginner developer is just starting, and here’s what I’m aiming for:  
+✨ My journey as a BSIT student is ongoing — here’s what I’m aiming for:  
 
 - 🌱 Deepen my knowledge in **Python, Flask, and Backend Development**  
 - 🖥️ Build and deploy **real-world Web & Mobile Applications**  
@@ -26,7 +25,6 @@
 - 💡 Create small-to-medium projects to **boost my coding confidence**  
 - 🌍 Contribute to **open-source projects** and collaborate with other developers  
 - 🚀 Prepare myself for **internships and industry experience**  
-
 
 ---
 
@@ -46,7 +44,9 @@
   <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-PacketTracer-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Person typing on computer"/>
+</p>
 
 ---
 

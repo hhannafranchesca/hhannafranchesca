@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:ff7eb3&height=250&section=header&text=Hanna%20Franchesca%20Herradura&fontSize=35&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:ff7eb3&height=230&section=header&text=Hanna%20Franchesca%20Herradura&fontSize=35&fontColor=fff&animation=twinkling)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=FF6A00&center=true&vCenter=true&width=600&lines=BSIT+Student+at+LSPU;Beginner+Developer;Flask+%7C+Flutter+%7C+UI%2FUX+Enthusiast;Still+Learning,+Still+Growing+🚀)
 
 # 👋 Hello, I'm Hanna Franchesca Herradura  
 

@@ -11,13 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🙋%20About%20Me-36d1dc?style=for-the-badge&logoColor=white&color=5b86e5" />
 </p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36D1DC&center=true&vCenter=true&width=435&lines=I'm+a+BSIT+Student+at+LSPU;Beginner+Web+Developer;Loves+Coding+%26+Learning+🚀" alt="Typing SVG" />
-  </a>
-</p>
-
 <p align="center">
 I'm a <b>BSIT student at LSPU</b> and a beginner developer exploring the world of coding. <br>
 I’ve built some projects for school, mostly desktop apps and small web apps. <br>

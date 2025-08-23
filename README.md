@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="animated background" width="100%" height="250px">
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:ff7eb3&height=250&section=header&text=Hanna%20Franchesca%20Herradura&fontSize=35&fontColor=fff)
+
 # 👋 Hello, I'm Hanna Franchesca Herradura  
 
 ## 🙋 Introduction  

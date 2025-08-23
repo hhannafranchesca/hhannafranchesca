@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:ff7eb3&height=220&section=header&text=Hi%2C%20I'm%20Hanna%20Franchesca&fontSize=30&fontColor=fff&animation=fadeIn&desc=A%20Web%20Developer%20in%20the%20making%20🚀&descAlignY=65&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=220&section=header&text=Hi%2C%20I'm%20Hanna%20Franchesca&fontSize=30&fontColor=fff&animation=fadeIn&desc=A%20Web%20Developer%20in%20the%20making%20🚀&descAlignY=65&descAlign=50"/>
 </p>
 
-# 👋 Hello, I'm Hanna Franchesca Herradura
+
+
 ## 🙋 Introduction  
 I'm a **BSIT student at LSPU** and a beginner developer exploring the world of coding.  
 I’ve built some projects for school, mostly desktop apps and small web apps.  

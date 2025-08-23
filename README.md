@@ -1,10 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:ff7eb3&height=230&section=header&text=Hanna%20Franchesca%20Herradura&fontSize=35&fontColor=fff&animation=twinkling)
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=FF6A00&center=true&vCenter=true&width=600&lines=BSIT+Student+at+LSPU;Beginner+Developer;Flask+%7C+Flutter+%7C+UI%2FUX+Enthusiast;Still+Learning,+Still+Growing+🚀">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:ff7eb3&height=220&section=header&text=Hi%2C%20I'm%20Hanna%20Franchesca&fontSize=30&fontColor=fff&animation=fadeIn&desc=A%20Web%20Developer%20in%20the%20making%20🚀&descAlignY=65&descAlign=50"/>
 </p>
 
-
+# 👋 Hello, I'm Hanna Franchesca Herradura
 ## 🙋 Introduction  
 I'm a **BSIT student at LSPU** and a beginner developer exploring the world of coding.  
 I’ve built some projects for school, mostly desktop apps and small web apps.  

@@ -6,11 +6,23 @@
 I'm a **BSIT student at LSPU** and a beginner developer exploring the world of coding.  
 I’ve built some projects for school, mostly desktop apps and small web apps.  
 Still learning, still growing 🚀
-  
----
-<img src="https://img.shields.io/badge/UI%2FDesign-Enthusiast-36d1dc?style=for-the-badge"/>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&color=36d1dc&center=true&vCenter=true&width=500&lines=Learning+Python+%26+Flask;Exploring+Flutter+%26+Dart;Practicing+UI%2FUX+with+Figma;Improving+JavaScript;Building+Mini+Projects+🚀"/>
+</p>
+
+## 🎯 Goals  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&color=36d1dc&center=true&vCenter=true&width=500&lines=🌱+Learn+Python+%26+Flask;📱+Explore+Flutter+%26+Dart;🎨+Practice+UI%2FUX+Design;⚡+Improve+JavaScript;💡+Build+Mini+Projects"/>
+</p>
+
+- 🌱 Learn more about **Python, Flask, and Web Development**  
+- 📱 Explore **Flutter & Dart** for mobile apps  
+- 🎨 Practice **UI/UX design** with Figma  
+- ⚡ Get more practice in **JavaScript**  
+- 💡 Build small projects to improve my coding confidence  
 
 ## 🎯 Goals  
 - 🌱 Learn more about **Python, Flask, and Web Development**  

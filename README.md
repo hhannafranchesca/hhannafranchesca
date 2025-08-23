@@ -1,6 +1,5 @@
+![background](https://i.gifer.com/7VE.gif)
 # 👋 Hello, I'm Hanna Franchesca Herradura  
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=FF6A00&center=true&vCenter=true&width=500&lines=BSIT+Student+at+LSPU;Beginner+Developer;Still+Learning,+Still+Growing+🚀)
 
 ## 🙋 Introduction  
 I'm a **BSIT student at LSPU** and a beginner developer exploring the world of coding.  

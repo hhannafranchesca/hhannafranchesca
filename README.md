@@ -2,19 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=220&section=header&text=Hi%2C%20I'm%20Hanna%20Franchesca%20Herradura&fontSize=30&fontColor=fff&animation=twinkling&desc=A%20Web%20Developer%20in%20the%20making%20🚀&descAlignY=65&descAlign=50"/>
 </p>
 
-## 🙋 Introduction  
-I'm a **BSIT student at LSPU** and a beginner developer exploring the world of coding.  
-I’ve built some projects for school, mostly desktop apps and small web apps.  
-Still learning, still growing 🚀  
-
----
-
-### 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&color=5b86e5&center=true&vCenter=true&width=500&lines=UI%2FUX+Learner;Beginner+Developer;Still+Learning+🚀"/>
+</p>
 
 
 

@@ -21,7 +21,7 @@ Still learning, still growing 🚀
 ## 🛠️ Skills  
 *(Beginner Level — still learning!)*  
 
-<table>
+
 <tr>
 <td width="60%">
 
@@ -38,7 +38,7 @@ Still learning, still growing 🚀
 
 </td>
 </tr>
-</table>
+
 ---
 ## 🛠️ Skills  
 *(Beginner Level — still learning!)*  

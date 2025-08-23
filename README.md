@@ -1,4 +1,6 @@
-![background](https://i.gifer.com/7VE.gif)
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" alt="animated background" width="100%" height="250px">
+</p>
 # 👋 Hello, I'm Hanna Franchesca Herradura  
 
 ## 🙋 Introduction  

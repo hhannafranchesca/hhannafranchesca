@@ -2,6 +2,29 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=220&section=header&text=Hi%2C%20I'm%20Hanna%20Franchesca%20Herradura&fontSize=30&fontColor=fff&animation=twinkling&desc=A%20Web%20Developer%20in%20the%20making%20🚀&descAlignY=65&descAlign=50"/>
 </p>
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=220&section=header&text=Hi%2C%20I'm%20Hanna%20Franchesca%20Herradura&fontSize=30&fontColor=fff&animation=twinkling&desc=A%20Web%20Developer%20in%20the%20making%20🚀&descAlignY=65&descAlign=50"/>
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="background: linear-gradient(135deg, #36d1dc, #5b86e5); border-radius: 15px; padding: 20px; color: white; width: 600px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+
+  <h2>🙋 Introduction</h2>  
+  <p>
+  I'm a <b>BSIT student at LSPU</b> and a beginner developer exploring the world of coding.  
+  I’ve built some projects for school, mostly desktop apps and small web apps.  
+  <br>  
+  <b>Still learning, still growing 🚀</b>  
+  </p>
+
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🙋 Introduction  
 I'm a **BSIT student at LSPU** and a beginner developer exploring the world of coding.  
 I’ve built some projects for school, mostly desktop apps and small web apps.  
@@ -16,28 +39,7 @@ Still learning, still growing 🚀
 - ⚡ Get more practice in **JavaScript**  
 - 💡 Build small projects to improve my coding confidence  
 
----
 
-## 🛠️ Skills  
-*(Beginner Level — still learning!)*  
-
-
-<tr>
-<td width="60%">
-
-- 🐍 Python | ☕ PHP | 🌐 HTML & CSS | 🎨 Bootstrap | ⚡ JavaScript (basic)  
-- 🧩 Flask (Web Framework)  
-- 📱 Flutter & Dart (Mobile Development)  
-- 🎨 Figma (UI/UX Design)  
-- 🖥️ Basic Networking (Cisco Packet Tracer)  
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-
-</td>
-</tr>
 
 ---
 ## 🛠️ Skills  

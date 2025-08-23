@@ -8,21 +8,6 @@ I’ve built some projects for school, mostly desktop apps and small web apps.
 Still learning, still growing 🚀
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&color=36d1dc&center=true&vCenter=true&width=500&lines=Learning+Python+%26+Flask;Exploring+Flutter+%26+Dart;Practicing+UI%2FUX+with+Figma;Improving+JavaScript;Building+Mini+Projects+🚀"/>
-</p>
-
-## 🎯 Goals  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&color=36d1dc&center=true&vCenter=true&width=500&lines=🌱+Learn+Python+%26+Flask;📱+Explore+Flutter+%26+Dart;🎨+Practice+UI%2FUX+Design;⚡+Improve+JavaScript;💡+Build+Mini+Projects"/>
-</p>
-
-- 🌱 Learn more about **Python, Flask, and Web Development**  
-- 📱 Explore **Flutter & Dart** for mobile apps  
-- 🎨 Practice **UI/UX design** with Figma  
-- ⚡ Get more practice in **JavaScript**  
-- 💡 Build small projects to improve my coding confidence  
 
 ## 🎯 Goals  
 - 🌱 Learn more about **Python, Flask, and Web Development**  
@@ -33,6 +18,28 @@ Still learning, still growing 🚀
 
 ---
 
+## 🛠️ Skills  
+*(Beginner Level — still learning!)*  
+
+<table>
+<tr>
+<td width="60%">
+
+- 🐍 Python | ☕ PHP | 🌐 HTML & CSS | 🎨 Bootstrap | ⚡ JavaScript (basic)  
+- 🧩 Flask (Web Framework)  
+- 📱 Flutter & Dart (Mobile Development)  
+- 🎨 Figma (UI/UX Design)  
+- 🖥️ Basic Networking (Cisco Packet Tracer)  
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+---
 ## 🛠️ Skills  
 *(Beginner Level — still learning!)*  
 - 🐍 Python | ☕ PHP | 🌐 HTML & CSS | 🎨 Bootstrap | ⚡ JavaScript (basic)  

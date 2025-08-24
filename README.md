@@ -45,8 +45,9 @@
   <img src="https://img.shields.io/badge/Cisco-PacketTracer-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Person typing on computer"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400" />
 </p>
+
 
 ---
 
